@@ -1,0 +1,9 @@
+[submodule "root-canvas-helper"]
+	path = root-canvas-helper
+	url = git@github.com:DraTeots/root-canvas-helper.git
+[submodule "root-utils"]
+	path = root-utils
+	url = git@github.com:DraTeots/root-utils.git
+[submodule "geant4-glass"]
+	path = geant4-glass
+	url = git@github.com:DraTeots/geant4-glass.git
